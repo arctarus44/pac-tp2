@@ -50,4 +50,3 @@ class Server:
             return result
          except urllib.error.HTTPError as e:
              raise ServerError(e.code, e.read().decode()) from None
-
