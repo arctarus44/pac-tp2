@@ -7,7 +7,7 @@ Arthur Dewarumez
 Todo:
 -----
 - [x] two-time-pad
-- [*] mersenne-twister
+- [x] mersenne-twister
 - [ ] padding-attack/last-byte
 - [ ] padding-attack/last-block
 - [ ] padding-attack/full-message
